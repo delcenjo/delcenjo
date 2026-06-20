@@ -16,3 +16,6 @@ Still learning, so any feedback is welcome.
 ### Things I'm learning
 
 Python, scikit-learn, PyTorch, FastAPI, Docker, and a bit of RAG and LLM agents.
+
+<!-- profile -->
+
