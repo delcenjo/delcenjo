@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi,
 
 I'm a student learning **AI and machine learning**. I like learning by building
 small projects end to end — classic ML pipelines, retrieval-augmented generation
