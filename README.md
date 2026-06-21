@@ -2,7 +2,7 @@
 
 I'm a student learning **AI and machine learning**. I like learning by building
 small projects end to end: classic ML pipelines, retrieval-augmented generation
-(RAG), LLM tool-using agents and model serving. Currently a contributor at **Cylstat**.
+(RAG), LLM tool-using agents and model serving. Currently a contributor at **Cylstat**. 
 
 **Portfolio & live demos:** https://delcenjo.github.io
 
