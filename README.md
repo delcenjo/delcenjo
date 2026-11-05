@@ -4,7 +4,7 @@ I'm a student learning **AI and machine learning**. I like learning by building
 small projects end to end: classic ML pipelines, retrieval-augmented generation
 (RAG), LLM tool-using agents and model serving. Currently a contributor at **Cylstat**.
 
-**Portfolio & live demos:** https://delcenjo.github.io
+**Portfolio & live demos:** [https://delcenjo.github.io](https://github.com/delcenjo)
 
 Still learning every day, and open to feedback.
 
